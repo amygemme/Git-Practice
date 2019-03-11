@@ -1,3 +1,36 @@
 body{
     background-color: red;
 }
+
+.container{
+    display: flex;
+    background-color: pink;
+}
+
+#div1{
+background-color: blue;
+padding: 25px;
+margin-bottom: 10px;
+width: 50%;
+}
+
+
+#div2 {
+background-color: yellow;
+padding: 50px;
+width: 30%;
+}
+
+
+#div3{ 
+    background-color: purple;
+    padding: 200px;
+    
+}
+
+
+#div4{
+    background-color: grey;
+    padding: 100px;
+    
+}
